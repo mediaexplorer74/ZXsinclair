@@ -1,16 +1,29 @@
-# ZXsinclair
+# ZXsinclair (zxe-windows branch)
 Some ZXSinclair "Emulator" :: ZX Computers make in .Net :)
 
-Forked from [https://github.com/bugbit/zxsinclair.net](https://github.com/bugbit/zxsinclair.net)
+Based on archived Stevo John's [ZXE](https://github.com/stevehjohn/ZXE) project.
 
-## Instructions info 
+## About 
 
-- http://www.gaby.de/z80/z80info.htm
+A ZX Spectrum emulator. Mostly about just seeing if I can.
 
+128/48 BASIC both seem to work.
+
+A bunch of games also, see https://www.outsidecontextproblem.com/zxe-more-progress.html.
+
+
+## Instructions
+
+Open ZXE.Windows.sln.
+
+Choose x86 target. Build/Compile, then run ZXE. When running, press F10 for the menu.
+
+## TODO
+Try to transform Windows app into UWP cross-platform one...
 
 ## .
-AS IS. RnD only / DIY
+AS IS. No support. RnD only / DIY
 
 ## ..
 
-[m][e] 2022
+[m][e] 2023
