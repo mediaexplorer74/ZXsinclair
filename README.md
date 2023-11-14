@@ -11,6 +11,11 @@ A ZX Spectrum emulator. Mostly about just seeing if I can.
 
 A bunch of games also, see https://www.outsidecontextproblem.com/zxe-more-progress.html.
 
+## Screenshot(s) (Target: win 11 on desktop pc, not W10M yet...)
+![Button](Images/shot1.png)
+![Button](Images/shot2.png)
+![Button](Images/shot3.png)
+![Button](Images/shot4.png)
 
 ## Instructions
 
